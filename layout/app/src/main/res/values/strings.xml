@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">layout</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="table_layout_4_open" />
+    <string name="table_layout_4_open_shortcut" />
+    <string name="table_layout_4_save" />
+    <string name="table_layout_4_save_shortcut" />
+</resources>
